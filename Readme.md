@@ -1,7 +1,7 @@
 
 # submit-form
 
-  Submit a form programmatically, triggering its submit handlers.
+  Submit a form programmatically, triggering its submit handlers, since the native `submit` method doesn't...
 
 ## Installation
 
