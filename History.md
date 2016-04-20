@@ -1,4 +1,10 @@
 
+1.0.1 / 2016-04-20
+==================
+
+  * remove `component.json`
+  * circle: deploy semver-ish tags to npm
+
 1.0.0 / 2016-04-20
 ==================
 
