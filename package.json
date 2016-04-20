@@ -1,0 +1,20 @@
+{
+  "name": "submit-form",
+  "version": "1.0.0",
+  "description": "Submit a form programmatically, triggering its submit handlers, since the native `submit` method doesn't...",
+  "main": "index.js",
+  "devDependencies": {
+    "mochify": "^2.17.0",
+    "phantomjs-prebuilt": "^2.1.7",
+    "compat-trigger-event": "^1.0.0",
+    "browserify": "^13.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/segmentio/submit-form.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "compat-trigger-event": "^1.0.0"
+  }
+}

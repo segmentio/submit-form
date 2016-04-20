@@ -1,6 +1,5 @@
 
-var trigger = require('trigger-event');
-
+var trigger = require('compat-trigger-event');
 
 /**
  * Expose `submitForm`.

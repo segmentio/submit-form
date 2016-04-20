@@ -5,12 +5,12 @@
 
 ## Installation
 
-    $ component install segmentio/submit-form
+    $ npm install @segment/submit-form
 
 ## Example
 
 ```js
-var submit = require('submit-form');
+var submit = require('@segment/submit-form');
 var form = document.querySelector('form');
 
 form.onsubmit = function (e) {
@@ -24,9 +24,9 @@ submit(form);
 ## API
 
 ### submit(form)
-  
+
   Submit a `form` programmatically, triggering its submit handlers.
-  
+
 ## License
 
   MIT
